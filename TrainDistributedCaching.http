@@ -1,0 +1,6 @@
+@TrainDistributedCaching_HostAddress = http://localhost:5193
+
+GET {{TrainDistributedCaching_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
